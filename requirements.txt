@@ -1,0 +1,5 @@
+openai
+guardrails-ai
+better_profanity>=0.7.0
+pydantic>=1.10.0
+pytest>=7.0.0
